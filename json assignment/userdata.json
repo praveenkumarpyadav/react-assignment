@@ -1,0 +1,54 @@
+[
+    {
+        "movieName" : "kanthara",
+        "director"  : "ridhab shetty",
+        "actors"    : ["rishab shetty", "sannidi"],
+        "moviePhoto": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/Kantara_x.jpeg?VersionId=Yi_Z_fk36ATahRPgMq4jfKy.RmnDAZZW"
+   
+    },
+
+    {
+        "movieName" : "kgf",
+        "director"  : "prashanth neel",
+        "actors"    :  ["yash","radhika pandith"],
+        "moviePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp6IkgHQm4wiODUZOpAigqkOggfQCIyMlc2g&usqp=CAU"
+    },
+
+    {
+       "movieName"  : "kabja",
+       "director"   :  "manju",
+       "actors"     : ["upendra","priyanka"],
+       "moviePhoto" : "https://m.media-amazon.com/images/M/MV5BNDVjODVlMWMtMjU2ZC00MzE0LTk1NzQtNzJmNGZmOGJmMzUwXkEyXkFqcGdeQXVyODA4MDA0Mjg@._V1_.jpg"
+    },
+
+    {
+        "movieName" : "yuvaratna",
+        "director"  : "santhosh anadaram",
+        "actors"    :  ["puneeth","sayesh"],
+        "moviePhoto": "http://timesofindia.indiatimes.com/photo/68387961.cms"
+    },
+
+    {
+        "movieName" : "ulidavaru kandante",
+        "director"  : "rishab shetty",
+        "actors"    :  ["rakshith shetty ","sheethal shetty"],
+        "moviePhoto": "https://upload.wikimedia.org/wikipedia/en/d/db/Ulidavaru_Kandanthe_audio_cover.jpeg"
+    },
+
+    {
+        "movieName" : "HIT the second case",
+        "director"  : "sailesh kolanu",
+        "actors"    :  ["adavi shesha","meenakshi"],
+        "moviePhoto": "https://m.media-amazon.com/images/M/MV5BNDA5ZTA5ZGQtM2FkMy00OTFhLTlmNzgtMjQzMjgxNmU3NjFiXkEyXkFqcGdeQXVyOTI3MzI4MzA@._V1_FMjpg_UX1000_.jpg"
+    },
+
+    {
+        "movieName" : "vikranth rona",
+        "director"  : "anup bhandari",
+        "actors"    :  ["sudeep"," jaqualin fernandis"],
+        "moviePhoto": "https://m.media-amazon.com/images/M/MV5BNmQ4ODExMGYtMDU1Mi00NzM1LTg3ZWMtMmFjZWU1MzllNDdhXkEyXkFqcGdeQXVyMzU0ODc1MTQ@._V1_.jpg"
+    }
+
+    
+
+]

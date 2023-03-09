@@ -1,0 +1,20 @@
+.parentBlock{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.mainBlock{
+    border: 2px solid red;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    background-color: rgba(0, 0, 0, 0.149);
+}
+
+img{
+    height: 250px;
+    width: 250px;
+}
